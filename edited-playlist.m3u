@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-name="Mr. Bean Animated (1080p)" group-title="P1: Animation;Kids",Mr. Bean Animated (1080p)
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpmVmC3G/IMG-0291.jpg" tvg-name="NickToons" group-title="P1: Kids",NickToons
+https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" tvg-name="Tom And Jerry (720p)" group-title="P1: Kids",Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-name="Nicktoons" group-title="P2: Live",Nicktoons
+http://84.17.50.102/nicktoons/index.m3u8
